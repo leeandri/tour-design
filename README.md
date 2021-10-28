@@ -1,2 +1,2 @@
-# natour-design
-A tour website design
+# tour-design
+ website done with SASS
